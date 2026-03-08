@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx skills:*)",
+      "Bash(export:*)",
+      "Read(//opt/homebrew/bin/**)",
+      "Read(//Users/talbarlev/**)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:api.github.com)",
+      "Bash(curl:*)",
+      "WebFetch(domain:dubai-skyline-splash.lovable.app)",
+      "Bash(python3:*)",
+      "Bash(open:*)"
+    ]
+  }
+}
